@@ -23,6 +23,7 @@
 ## Difficult to Approach
 
 130,000 lines of Rust code
+
 [Cargo Count by kbknapp](https://github.com/kbknapp/cargo-count)
 
 ---
@@ -30,29 +31,32 @@
 ## But Rust has good tools!
 
 IntelliJ type inference
+
 Rust Racer Vim plugin
+
 Great compiler errors with examples!
+
 Lots of examples & docs online
 
 ---
 
 ### Type Inference in IntelliJ
-[Inference](intellij.png)
+![Inference](intellij.png)
 
 ---
 
 ### Compiler Error & More Info
-[Error1](error1.png)
+![Error1](error1.png)
 
 ---
 
 ### Compiler Error & More Info
-[Error2](error2.png)
+![Error2](error2.png)
 
 ---
 
 ### Compiler Error & More Info
-[Error3](error3.png)
+![Error3](error3.png)
 
 ---
 
